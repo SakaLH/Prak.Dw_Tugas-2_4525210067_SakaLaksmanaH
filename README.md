@@ -25,3 +25,7 @@ Tahun: 2026
 
 ## Screenshot
 
+<img width="1917" height="915" alt="image" src="https://github.com/user-attachments/assets/f2377ea7-1256-4896-b093-5e326210b29f" />
+
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/ff7e74dd-13eb-4851-9611-5f244da42716" />
+
